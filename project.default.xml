@@ -1,0 +1,181 @@
+<application>
+  <component name="ProjectManager">
+    <defaultProject>
+      <component name="CompilerConfiguration">
+        <resourceExtensions />
+        <wildcardResourcePatterns>
+          <entry name="!?*.java" />
+          <entry name="!?*.form" />
+          <entry name="!?*.class" />
+          <entry name="!?*.groovy" />
+          <entry name="!?*.scala" />
+          <entry name="!?*.flex" />
+          <entry name="!?*.kt" />
+          <entry name="!?*.clj" />
+          <entry name="!?*.aj" />
+        </wildcardResourcePatterns>
+        <annotationProcessing>
+          <profile default="true" name="Default" enabled="false">
+            <processorPath useClasspath="true" />
+          </profile>
+        </annotationProcessing>
+      </component>
+      <component name="Encoding">
+        <file url="PROJECT" charset="UTF-8" />
+      </component>
+      <component name="MavenImportPreferences">
+        <option name="generalSettings">
+          <MavenGeneralSettings>
+            <option name="mavenHome" value="Bundled (Maven 3)" />
+          </MavenGeneralSettings>
+        </option>
+      </component>
+      <component name="ProjectLevelVcsManager" settingsEditedManually="false">
+        <OptionsSetting value="true" id="Add" />
+        <OptionsSetting value="true" id="Remove" />
+        <OptionsSetting value="true" id="Checkout" />
+        <OptionsSetting value="true" id="Update" />
+        <OptionsSetting value="true" id="Status" />
+        <OptionsSetting value="true" id="Edit" />
+        <ConfirmationsSetting value="0" id="Add" />
+        <ConfirmationsSetting value="0" id="Remove" />
+      </component>
+      <component name="ProjectRootManager" version="2" languageLevel="JDK_1_6" default="true" assert-keyword="true" jdk-15="true" />
+      <component name="PropertiesComponent">
+        <property name="last_opened_file_path" value="$USER_HOME$/Documents/Projects" />
+      </component>
+      <component name="RunManager">
+        <configuration default="true" type="#org.jetbrains.idea.devkit.run.PluginConfigurationType" factoryName="Plugin">
+          <module name="" />
+          <option name="VM_PARAMETERS" value="-Xmx512m -Xms256m -XX:MaxPermSize=250m -ea" />
+          <option name="PROGRAM_PARAMETERS" />
+          <method />
+        </configuration>
+        <configuration default="true" type="Applet" factoryName="Applet">
+          <option name="WIDTH" value="400" />
+          <option name="HEIGHT" value="300" />
+          <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
+          <module />
+          <method />
+        </configuration>
+        <configuration default="true" type="Application" factoryName="Application">
+          <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+          <option name="MAIN_CLASS_NAME" />
+          <option name="VM_PARAMETERS" />
+          <option name="PROGRAM_PARAMETERS" />
+          <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+          <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+          <option name="ALTERNATIVE_JRE_PATH" />
+          <option name="ENABLE_SWING_INSPECTOR" value="false" />
+          <option name="ENV_VARIABLES" />
+          <option name="PASS_PARENT_ENVS" value="true" />
+          <module name="" />
+          <envs />
+          <method />
+        </configuration>
+        <configuration default="true" type="JUnit" factoryName="JUnit">
+          <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+          <module name="" />
+          <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+          <option name="ALTERNATIVE_JRE_PATH" />
+          <option name="PACKAGE_NAME" />
+          <option name="MAIN_CLASS_NAME" />
+          <option name="METHOD_NAME" />
+          <option name="TEST_OBJECT" value="class" />
+          <option name="VM_PARAMETERS" value="-ea" />
+          <option name="PARAMETERS" />
+          <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+          <option name="ENV_VARIABLES" />
+          <option name="PASS_PARENT_ENVS" value="true" />
+          <option name="TEST_SEARCH_SCOPE">
+            <value defaultName="singleModule" />
+          </option>
+          <envs />
+          <patterns />
+          <method />
+        </configuration>
+        <configuration default="true" type="Remote" factoryName="Remote">
+          <option name="USE_SOCKET_TRANSPORT" value="true" />
+          <option name="SERVER_MODE" value="false" />
+          <option name="SHMEM_ADDRESS" value="javadebug" />
+          <option name="HOST" value="localhost" />
+          <option name="PORT" value="5005" />
+          <method />
+        </configuration>
+        <configuration default="true" type="TestNG" factoryName="TestNG">
+          <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+          <module name="" />
+          <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+          <option name="ALTERNATIVE_JRE_PATH" />
+          <option name="SUITE_NAME" />
+          <option name="PACKAGE_NAME" />
+          <option name="MAIN_CLASS_NAME" />
+          <option name="METHOD_NAME" />
+          <option name="GROUP_NAME" />
+          <option name="TEST_OBJECT" value="CLASS" />
+          <option name="VM_PARAMETERS" value="-ea" />
+          <option name="PARAMETERS" />
+          <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+          <option name="OUTPUT_DIRECTORY" />
+          <option name="ANNOTATION_TYPE" />
+          <option name="ENV_VARIABLES" />
+          <option name="PASS_PARENT_ENVS" value="true" />
+          <option name="TEST_SEARCH_SCOPE">
+            <value defaultName="singleModule" />
+          </option>
+          <option name="USE_DEFAULT_REPORTERS" value="false" />
+          <option name="PROPERTIES_FILE" />
+          <envs />
+          <properties />
+          <listeners />
+          <method />
+        </configuration>
+      </component>
+      <component name="SbtLocalSettings">
+        <option name="modificationStamps">
+          <map>
+            <entry key="$USER_HOME$/Documents/Projects/action-logger" value="1427804960000" />
+            <entry key="$USER_HOME$/Documents/Projects/akka-in-action/chapter-testdriven" value="1447712660000" />
+            <entry key="$USER_HOME$/Documents/Projects/akka-in-action/chapter-up-and-running" value="1447712660000" />
+            <entry key="$USER_HOME$/Documents/Projects/elasticsearch-client" value="1427805117000" />
+            <entry key="$USER_HOME$/Documents/Projects/entities" value="1450363567000" />
+            <entry key="$USER_HOME$/Documents/Projects/facebook-service" value="1430987820000" />
+            <entry key="$USER_HOME$/Documents/Projects/monitoring-service" value="1446224033000" />
+            <entry key="$USER_HOME$/Documents/Projects/op-rabbit" value="4316881305000" />
+            <entry key="$USER_HOME$/Documents/Projects/opigram-commons" value="1427796630000" />
+            <entry key="$USER_HOME$/Documents/Projects/opigram-library" value="1465372367000" />
+            <entry key="$USER_HOME$/Documents/Projects/opigram-new-opi-service" value="1427795168000" />
+            <entry key="$USER_HOME$/Documents/Projects/opigram-notifications-service" value="1427795619000" />
+            <entry key="$USER_HOME$/Documents/Projects/opigram-notifications-service-orig" value="1435761876000" />
+            <entry key="$USER_HOME$/Documents/Projects/opigram-survey-service" value="1427724946000" />
+            <entry key="$USER_HOME$/Documents/Projects/opigram-view-manager-service" value="1427796269000" />
+            <entry key="$USER_HOME$/Documents/Projects/profile-caster" value="1427804370000" />
+            <entry key="$USER_HOME$/Documents/tools/activator-1.3.10-minimal/bin/questions-and-answers" value="1466168085000" />
+          </map>
+        </option>
+        <option name="externalProjectsViewState">
+          <projects_view />
+        </option>
+      </component>
+      <component name="SvnConfiguration">
+        <configuration>$USER_HOME$/.subversion</configuration>
+      </component>
+      <component name="masterDetails">
+        <states>
+          <state key="ProjectJDKs.UI">
+            <settings>
+              <last-edited>1.6</last-edited>
+              <splitter-proportions>
+                <option name="proportions">
+                  <list>
+                    <option value="0.2" />
+                  </list>
+                </option>
+              </splitter-proportions>
+            </settings>
+          </state>
+        </states>
+      </component>
+    </defaultProject>
+  </component>
+</application>
