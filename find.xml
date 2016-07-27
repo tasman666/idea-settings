@@ -5,7 +5,7 @@
     <option name="regularExpressions" value="true" />
     <option name="REGULAR_EXPRESSIONS" value="true" />
     <option name="SEARCH_SCOPE" value="Project 'opigram-survey-service'" />
-    <option name="FILE_MASK" value="*.scala" />
+    <option name="FILE_MASK" value="*Spec.scala" />
     <recentFileMasks>
       <mask>*.properties</mask>
       <mask>*.html</mask>
@@ -20,6 +20,7 @@
       <mask>*.js</mask>
       <mask>*.*</mask>
       <mask>*.scala</mask>
+      <mask>*Spec.scala</mask>
     </recentFileMasks>
   </component>
 </application>
