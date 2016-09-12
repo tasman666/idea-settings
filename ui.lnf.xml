@@ -1,6 +1,7 @@
 <application>
   <component name="UISettings">
     <option name="SHOW_MAIN_TOOLBAR" value="true" />
+    <option name="MAX_LOOKUP_WIDTH2" value="1426" />
     <option name="MAX_LOOKUP_LIST_HEIGHT" value="36" />
   </component>
 </application>
