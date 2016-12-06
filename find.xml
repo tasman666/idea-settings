@@ -5,6 +5,7 @@
     <option name="regularExpressions" value="true" />
     <option name="REGULAR_EXPRESSIONS" value="true" />
     <option name="SEARCH_SCOPE" value="Project 'opigram-survey-service'" />
+    <option name="FILE_MASK" value="*.xml" />
     <recentFileMasks>
       <mask>*.properties</mask>
       <mask>*.html</mask>
@@ -13,7 +14,6 @@
       <mask>*.as</mask>
       <mask>*.css</mask>
       <mask>*.mxml</mask>
-      <mask>*.xml</mask>
       <mask>pom.xml</mask>
       <mask>*.py</mask>
       <mask>*.js</mask>
@@ -21,6 +21,7 @@
       <mask>*.scala</mask>
       <mask>*Spec.scala</mask>
       <mask>*.json</mask>
+      <mask>*.xml</mask>
     </recentFileMasks>
   </component>
 </application>
