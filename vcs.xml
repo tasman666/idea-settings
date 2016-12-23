@@ -202,6 +202,14 @@
           <option name="url" value="ssh://yougov@yougov.kilnhg.com/Repositories/O/node-page-service" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://yougov.kilnhg.com/Code/Repositories/O/ygo-play-sandbox" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="ssh://yougov@yougov.kilnhg.com/Repositories/O/ygo-play-sandbox" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
     <option name="cloneParentDir" value="$USER_HOME$/Documents/Projects" />
