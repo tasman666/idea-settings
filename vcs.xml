@@ -214,6 +214,14 @@
           <option name="url" value="ssh://yougov@yougov.kilnhg.com/Repositories/O/cruncher-results-service" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://yougov.kilnhg.com/Code/Repositories/O/cassandra-migrant" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="ssh://yougov@yougov.kilnhg.com/Repositories/O/cassandra-migrant" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
     <option name="cloneParentDir" value="$USER_HOME$/Documents/Projects" />
